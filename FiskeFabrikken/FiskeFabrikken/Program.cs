@@ -16,4 +16,6 @@ namespace FiskeFabrikken
     class Fabrik
     {
     }
+    class Fisk
+        {}
 }
