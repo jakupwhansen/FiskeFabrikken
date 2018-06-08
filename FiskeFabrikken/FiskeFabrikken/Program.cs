@@ -15,6 +15,7 @@ namespace FiskeFabrikken
     }
     class Fabrik
     {
+        List<Fisk> fiskeListe = new List<Fisk>();
     }
     class Fisk
         {}
