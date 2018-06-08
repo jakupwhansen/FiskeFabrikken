@@ -1,0 +1,6 @@
+c:\users\t430\documents\visual studio 2015\Projects\FiskeFabrikken\FiskeFabrikken\bin\Debug\FiskeFabrikken.exe.config
+c:\users\t430\documents\visual studio 2015\Projects\FiskeFabrikken\FiskeFabrikken\bin\Debug\FiskeFabrikken.exe
+c:\users\t430\documents\visual studio 2015\Projects\FiskeFabrikken\FiskeFabrikken\bin\Debug\FiskeFabrikken.pdb
+c:\users\t430\documents\visual studio 2015\Projects\FiskeFabrikken\FiskeFabrikken\obj\Debug\FiskeFabrikken.csprojResolveAssemblyReference.cache
+c:\users\t430\documents\visual studio 2015\Projects\FiskeFabrikken\FiskeFabrikken\obj\Debug\FiskeFabrikken.exe
+c:\users\t430\documents\visual studio 2015\Projects\FiskeFabrikken\FiskeFabrikken\obj\Debug\FiskeFabrikken.pdb
