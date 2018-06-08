@@ -18,5 +18,7 @@ namespace FiskeFabrikken
         List<Fisk> fiskeListe = new List<Fisk>();
     }
     class Fisk
-        {}
+    {
+        public int weight;
+    }
 }
