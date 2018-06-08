@@ -13,4 +13,7 @@ namespace FiskeFabrikken
             Console.WriteLine("Jeg er en fiskefabrik");
         }
     }
+    class Fabrik
+    {
+    }
 }
