@@ -25,6 +25,9 @@ namespace FiskeFabrikken
         private int weight;
         //OPGAVE til Hans Olivur.
         //Lav en construktør som sætter weight til en værdi som kommer udefra.
+        public Fisk(int vegt){
+            weight = vegt;
+        }
         //Lav også en set get til weight.
     }
 }

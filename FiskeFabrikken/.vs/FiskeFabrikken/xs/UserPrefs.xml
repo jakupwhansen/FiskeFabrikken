@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2F27718E-F01C-4467-9900-11496C4A58D1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FiskeFabrikken/Program.cs">
+    <Files>
+      <File FileName="FiskeFabrikken/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FiskeFabrikken PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

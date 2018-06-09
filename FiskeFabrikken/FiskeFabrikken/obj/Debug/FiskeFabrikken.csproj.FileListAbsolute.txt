@@ -1,19 +1,26 @@
-c:\users\t430\documents\visual studio 2015\Projects\FiskeFabrikken\FiskeFabrikken\bin\Debug\FiskeFabrikken.exe.config
-c:\users\t430\documents\visual studio 2015\Projects\FiskeFabrikken\FiskeFabrikken\bin\Debug\FiskeFabrikken.exe
-c:\users\t430\documents\visual studio 2015\Projects\FiskeFabrikken\FiskeFabrikken\bin\Debug\FiskeFabrikken.pdb
-c:\users\t430\documents\visual studio 2015\Projects\FiskeFabrikken\FiskeFabrikken\obj\Debug\FiskeFabrikken.csprojResolveAssemblyReference.cache
-c:\users\t430\documents\visual studio 2015\Projects\FiskeFabrikken\FiskeFabrikken\obj\Debug\FiskeFabrikken.exe
-c:\users\t430\documents\visual studio 2015\Projects\FiskeFabrikken\FiskeFabrikken\obj\Debug\FiskeFabrikken.pdb
-C:\Users\jwha\Documents\MyClonesFromGitHub\fiskefabrikken\FiskeFabrikken\FiskeFabrikken\bin\Debug\FiskeFabrikken.exe.config
-C:\Users\jwha\Documents\MyClonesFromGitHub\fiskefabrikken\FiskeFabrikken\FiskeFabrikken\bin\Debug\FiskeFabrikken.exe
-C:\Users\jwha\Documents\MyClonesFromGitHub\fiskefabrikken\FiskeFabrikken\FiskeFabrikken\bin\Debug\FiskeFabrikken.pdb
-C:\Users\jwha\Documents\MyClonesFromGitHub\fiskefabrikken\FiskeFabrikken\FiskeFabrikken\obj\Debug\FiskeFabrikken.csprojResolveAssemblyReference.cache
-C:\Users\jwha\Documents\MyClonesFromGitHub\fiskefabrikken\FiskeFabrikken\FiskeFabrikken\obj\Debug\FiskeFabrikken.csproj.CoreCompileInputs.cache
-C:\Users\jwha\Documents\MyClonesFromGitHub\fiskefabrikken\FiskeFabrikken\FiskeFabrikken\obj\Debug\FiskeFabrikken.exe
-C:\Users\jwha\Documents\MyClonesFromGitHub\fiskefabrikken\FiskeFabrikken\FiskeFabrikken\obj\Debug\FiskeFabrikken.pdb
-C:\Users\T430\Documents\GitHubMineClones\FiskeFabrikken\FiskeFabrikken\FiskeFabrikken\bin\Debug\FiskeFabrikken.exe.config
-C:\Users\T430\Documents\GitHubMineClones\FiskeFabrikken\FiskeFabrikken\FiskeFabrikken\obj\Debug\FiskeFabrikken.exe
-C:\Users\T430\Documents\GitHubMineClones\FiskeFabrikken\FiskeFabrikken\FiskeFabrikken\obj\Debug\FiskeFabrikken.pdb
-C:\Users\T430\Documents\GitHubMineClones\FiskeFabrikken\FiskeFabrikken\FiskeFabrikken\bin\Debug\FiskeFabrikken.exe
-C:\Users\T430\Documents\GitHubMineClones\FiskeFabrikken\FiskeFabrikken\FiskeFabrikken\bin\Debug\FiskeFabrikken.pdb
-C:\Users\T430\Documents\GitHubMineClones\FiskeFabrikken\FiskeFabrikken\FiskeFabrikken\obj\Debug\FiskeFabrikken.csprojResolveAssemblyReference.cache
+c:/users/t430/documents/visual studio 2015/Projects/FiskeFabrikken/FiskeFabrikken/bin/Debug/FiskeFabrikken.exe.config
+c:/users/t430/documents/visual studio 2015/Projects/FiskeFabrikken/FiskeFabrikken/bin/Debug/FiskeFabrikken.exe
+c:/users/t430/documents/visual studio 2015/Projects/FiskeFabrikken/FiskeFabrikken/bin/Debug/FiskeFabrikken.pdb
+c:/users/t430/documents/visual studio 2015/Projects/FiskeFabrikken/FiskeFabrikken/obj/Debug/FiskeFabrikken.csprojResolveAssemblyReference.cache
+c:/users/t430/documents/visual studio 2015/Projects/FiskeFabrikken/FiskeFabrikken/obj/Debug/FiskeFabrikken.exe
+c:/users/t430/documents/visual studio 2015/Projects/FiskeFabrikken/FiskeFabrikken/obj/Debug/FiskeFabrikken.pdb
+C:/Users/jwha/Documents/MyClonesFromGitHub/fiskefabrikken/FiskeFabrikken/FiskeFabrikken/bin/Debug/FiskeFabrikken.exe.config
+C:/Users/jwha/Documents/MyClonesFromGitHub/fiskefabrikken/FiskeFabrikken/FiskeFabrikken/bin/Debug/FiskeFabrikken.exe
+C:/Users/jwha/Documents/MyClonesFromGitHub/fiskefabrikken/FiskeFabrikken/FiskeFabrikken/bin/Debug/FiskeFabrikken.pdb
+C:/Users/jwha/Documents/MyClonesFromGitHub/fiskefabrikken/FiskeFabrikken/FiskeFabrikken/obj/Debug/FiskeFabrikken.csprojResolveAssemblyReference.cache
+C:/Users/jwha/Documents/MyClonesFromGitHub/fiskefabrikken/FiskeFabrikken/FiskeFabrikken/obj/Debug/FiskeFabrikken.csproj.CoreCompileInputs.cache
+C:/Users/jwha/Documents/MyClonesFromGitHub/fiskefabrikken/FiskeFabrikken/FiskeFabrikken/obj/Debug/FiskeFabrikken.exe
+C:/Users/jwha/Documents/MyClonesFromGitHub/fiskefabrikken/FiskeFabrikken/FiskeFabrikken/obj/Debug/FiskeFabrikken.pdb
+C:/Users/T430/Documents/GitHubMineClones/FiskeFabrikken/FiskeFabrikken/FiskeFabrikken/bin/Debug/FiskeFabrikken.exe.config
+C:/Users/T430/Documents/GitHubMineClones/FiskeFabrikken/FiskeFabrikken/FiskeFabrikken/obj/Debug/FiskeFabrikken.exe
+C:/Users/T430/Documents/GitHubMineClones/FiskeFabrikken/FiskeFabrikken/FiskeFabrikken/obj/Debug/FiskeFabrikken.pdb
+C:/Users/T430/Documents/GitHubMineClones/FiskeFabrikken/FiskeFabrikken/FiskeFabrikken/bin/Debug/FiskeFabrikken.exe
+C:/Users/T430/Documents/GitHubMineClones/FiskeFabrikken/FiskeFabrikken/FiskeFabrikken/bin/Debug/FiskeFabrikken.pdb
+C:/Users/T430/Documents/GitHubMineClones/FiskeFabrikken/FiskeFabrikken/FiskeFabrikken/obj/Debug/FiskeFabrikken.csprojResolveAssemblyReference.cache
+/Users/hansolivurjoensen/Documents/GitHubClones/FiskeFabrikken/FiskeFabrikken/FiskeFabrikken/bin/Debug/FiskeFabrikken.exe.config
+/Users/hansolivurjoensen/Documents/GitHubClones/FiskeFabrikken/FiskeFabrikken/FiskeFabrikken/bin/Debug/FiskeFabrikken.exe
+/Users/hansolivurjoensen/Documents/GitHubClones/FiskeFabrikken/FiskeFabrikken/FiskeFabrikken/bin/Debug/FiskeFabrikken.pdb
+/Users/hansolivurjoensen/Documents/GitHubClones/FiskeFabrikken/FiskeFabrikken/FiskeFabrikken/obj/Debug/FiskeFabrikken.csprojResolveAssemblyReference.cache
+/Users/hansolivurjoensen/Documents/GitHubClones/FiskeFabrikken/FiskeFabrikken/FiskeFabrikken/obj/Debug/FiskeFabrikken.csproj.CoreCompileInputs.cache
+/Users/hansolivurjoensen/Documents/GitHubClones/FiskeFabrikken/FiskeFabrikken/FiskeFabrikken/obj/Debug/FiskeFabrikken.exe
+/Users/hansolivurjoensen/Documents/GitHubClones/FiskeFabrikken/FiskeFabrikken/FiskeFabrikken/obj/Debug/FiskeFabrikken.pdb
