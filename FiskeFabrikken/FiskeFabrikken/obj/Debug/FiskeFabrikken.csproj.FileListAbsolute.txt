@@ -14,3 +14,6 @@ C:\Users\jwha\Documents\MyClonesFromGitHub\fiskefabrikken\FiskeFabrikken\FiskeFa
 C:\Users\T430\Documents\GitHubMineClones\FiskeFabrikken\FiskeFabrikken\FiskeFabrikken\bin\Debug\FiskeFabrikken.exe.config
 C:\Users\T430\Documents\GitHubMineClones\FiskeFabrikken\FiskeFabrikken\FiskeFabrikken\obj\Debug\FiskeFabrikken.exe
 C:\Users\T430\Documents\GitHubMineClones\FiskeFabrikken\FiskeFabrikken\FiskeFabrikken\obj\Debug\FiskeFabrikken.pdb
+C:\Users\T430\Documents\GitHubMineClones\FiskeFabrikken\FiskeFabrikken\FiskeFabrikken\bin\Debug\FiskeFabrikken.exe
+C:\Users\T430\Documents\GitHubMineClones\FiskeFabrikken\FiskeFabrikken\FiskeFabrikken\bin\Debug\FiskeFabrikken.pdb
+C:\Users\T430\Documents\GitHubMineClones\FiskeFabrikken\FiskeFabrikken\FiskeFabrikken\obj\Debug\FiskeFabrikken.csprojResolveAssemblyReference.cache

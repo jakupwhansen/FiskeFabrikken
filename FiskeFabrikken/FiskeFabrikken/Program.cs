@@ -16,10 +16,15 @@ namespace FiskeFabrikken
     }
     class Fabrik
     {
-        List<Fisk> fiskeListe = new List<Fisk>();
+        private List<Fisk> fiskeListe = new List<Fisk>();
+        //OPGAVE til Jákup. 
+        //Lav en construktør som insætter 10 fisk ind i fiskeListe.
     }
     class Fisk
     {
-        public int weight;
+        private int weight;
+        //OPGAVE til Hans Olivur.
+        //Lav en construktør som sætter weight til en værdi som kommer udefra.
+        //Lav også en set get til weight.
     }
 }
