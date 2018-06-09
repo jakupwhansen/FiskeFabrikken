@@ -17,6 +17,13 @@ namespace FiskeFabrikken
     class Fabrik
     {
         private List<Fisk> fiskeListe = new List<Fisk>();
+        public Fabrik()
+        {
+            for (int i = 0; i < 10; i++)
+            {
+                fiskeListe.Add(new Fisk());
+            }
+        }
         //OPGAVE til Jákup. 
         //Lav en construktør som insætter 10 fisk ind i fiskeListe.
     }
