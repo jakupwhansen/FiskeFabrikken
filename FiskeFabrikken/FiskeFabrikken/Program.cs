@@ -11,6 +11,7 @@ namespace FiskeFabrikken
         static void Main(string[] args)
         {
             Console.WriteLine("Jeg er en fiskefabrik");
+            Fabrik fabrikke = new Fabrik();
         }
     }
     class Fabrik
