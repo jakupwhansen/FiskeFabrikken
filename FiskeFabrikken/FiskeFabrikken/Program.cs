@@ -21,7 +21,7 @@ namespace FiskeFabrikken
         {
             for (int i = 0; i < 10; i++)
             {
-                fiskeListe.Add(new Fisk());
+                fiskeListe.Add(new Fisk(i));
             }
         }
         //OPGAVE til Jákup. 
